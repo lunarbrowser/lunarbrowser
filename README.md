@@ -1,1 +1,1 @@
-github/git beginner and c dev
+c and javascript dev
